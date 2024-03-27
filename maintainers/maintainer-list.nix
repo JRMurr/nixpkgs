@@ -9670,6 +9670,12 @@
     githubId = 4611077;
     name = "Raymond Gauthier";
   };
+  JRMurr = {
+    email = "johnreillymurray@gmail.com";
+    github = "JRMurr";
+    githubId = 5672686;
+    name = "John Murray";
+  };
   jrpotter = {
     email = "jrpotter2112@gmail.com";
     github = "jrpotter";
